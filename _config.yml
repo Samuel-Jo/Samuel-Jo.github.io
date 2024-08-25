@@ -115,11 +115,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "조성근"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "나는 **핀테크 학생** 입니다."
+  location         : "김포시 풍무로36"
+  email            : aiautou@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
