@@ -24,7 +24,7 @@ name                     : "조성근"
 description              : "핀테크 수업 노트"
 url                      : "https://Samuel-Jo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : GitHub Samuel-Jo/Samuel-Jo
+repository               : Samuel-Jo/Samuel-Jo
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -192,7 +192,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
+# - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
